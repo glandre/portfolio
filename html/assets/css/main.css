@@ -2649,9 +2649,7 @@ input, select, textarea {
 
 			.features article .image img {
 				display: block;
-				height: 235px;
-				text-align: center;
-				margin: auto;
+				width: 100%;
 			}
 
 		.features article .inner {
